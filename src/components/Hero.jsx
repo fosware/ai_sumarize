@@ -7,7 +7,7 @@ const Hero = () => {
         <img src={logo} alt="sumz_logo" className="w-28 object-contain" />
         <button
           type="button"
-          onClick={() => window.open("https://github.com/fosware")}
+          onClick={() => window.open("https://github.com/fosware/ai_sumarize")}
           className="black_btn"
         >
           GitHub
